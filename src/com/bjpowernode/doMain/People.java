@@ -5,4 +5,5 @@ package com.bjpowernode.doMain;
  * 2019/6/28
  */
 public class People {
+    String id;
 }
