@@ -6,5 +6,9 @@ package com.bjpowernode.doMain;
  */
 public class People {
     String id;
+
     String phone;
+
+    String name;
+
 }
